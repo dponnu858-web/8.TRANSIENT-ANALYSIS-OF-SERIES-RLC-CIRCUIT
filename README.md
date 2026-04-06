@@ -6,7 +6,7 @@ To determine transient response of a series RLC circuit using Multisim Simulator
 
 **APPARATUS REQUIRED:**
 
-<img width="509" height="246" alt="image" src="https://github.com/user-attachments/assets/3e5e2d91-c638-4c85-b2cb-cc88f2ca8306" />
+<img width="453" height="268" alt="image" src="https://github.com/user-attachments/assets/aee53928-64b2-46a9-97e5-e1d1984a34eb" />
 
 **THEORY:**
 
@@ -22,17 +22,15 @@ Compare the calculated values and measured values of voltage in both the cases.
 
 **CIRCUIT DIAGRAM:**
 
+<img width="457" height="209" alt="image" src="https://github.com/user-attachments/assets/f173abf2-0cc2-4315-b5ec-e4b4b7ed9e65" />
 
 
 
 **TABULATION:**
+<img width="431" height="341" alt="image" src="https://github.com/user-attachments/assets/b4f10a15-042e-4632-b25e-8357237a823f" />
 
-
-**Calculation:**
-
-
-
-**Marksplitup:**
+**OUTPUT::**
+<img width="423" height="155" alt="image" src="https://github.com/user-attachments/assets/c1023fb3-3d7b-4f16-ad83-7044fada14c2" />
 
 
 **RESULT:**
